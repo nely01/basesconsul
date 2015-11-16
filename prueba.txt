@@ -1,0 +1,3 @@
+it add datos.txt
+En esta etapa, datos.txt tiene un status de “sugerencias” para formar parte del repositorio pero oficialmente no lo esta
+Git status
